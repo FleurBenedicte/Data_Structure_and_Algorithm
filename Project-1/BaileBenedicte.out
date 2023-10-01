@@ -1,0 +1,33 @@
+/**
+ * @author Baile Benedicte
+ * @version 1.0.0
+ *          11/09/2022
+ */
+
+Test isEmpty() is true.
+Test size() is true.
+Test first() is true.
+Test last() is true.
+Test before() is true.
+Test after() is true.
+Test last() is true.
+Test last() is true.
+Test Element at index 2: is true.
+Test last element/Element at index 3: is true.
+Test Element at index 4: is true.
+After inserting E: 
+A
+B
+C
+D
+E
+After removing C: 
+A
+B
+D
+E
+Test Last element: is true.
+Test Editor loaded with correct content is true.
+Test Editor changed the document to match 'middle.txt' expectations is true.
+Test Editor changed the document to match 'final.txt' expectations is true.
+All tests passed.
